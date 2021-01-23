@@ -7,7 +7,6 @@ This is a distance plotter using ESP8266 and ultrasonic sensor HC-SR04
 ### Use this diagram for NodeMCU GPIOs to use with Arduino IDE
 ![NodeMCU GPIOs](https://user-images.githubusercontent.com/55695557/105572448-2bad3980-5d7d-11eb-80c7-3420dcf9717b.png)
 
-.
     ├── Clone this repository <br>
     ├── Head over to the `Distance_Plotter_Node_MCU` folder <br>
     ├── Open the .ino file with Arduino <br>
