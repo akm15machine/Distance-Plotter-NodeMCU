@@ -16,8 +16,8 @@ ESP8266WiFiMulti manyPhones;
 MDNSResponder MDNS;
 AsyncWebServer server(80);//serves at port 80 (default)
 
-const char* ssid1 = "AKM_MACHINE";
-const char* pass1 = "xaq12wsx";
+const char* ssid1 = "WiFiAP";
+const char* pass1 = "12345678";
 
 
 
