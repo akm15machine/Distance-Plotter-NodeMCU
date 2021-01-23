@@ -8,11 +8,11 @@ This is a distance plotter using ESP8266 and ultrasonic sensor HC-SR04
 ![NodeMCU GPIOs](https://user-images.githubusercontent.com/55695557/105572448-2bad3980-5d7d-11eb-80c7-3420dcf9717b.png)
 
 .
-    ├── Clone this repository
-    ├── Head over to the `Distance_Plotter_Node_MCU` folder
-    ├── Open the .ino file with Arduino
-    ├── Set the board as generic ESP8266
-    └── Upload
+    ├── Clone this repository <br>
+    ├── Head over to the `Distance_Plotter_Node_MCU` folder <br>
+    ├── Open the .ino file with Arduino <br>
+    ├── Set the board as generic ESP8266 <br>
+    └── Upload <br>
 
 ### Follow the procedure below to setup ESP8266 (nodeMCU) for your Arduino
 Use generic ESP8266 module Board
@@ -24,6 +24,6 @@ And paste the link: `https://arduino.esp8266.com/stable/package_esp8266com_index
 ![image](https://user-images.githubusercontent.com/55695557/105572665-8e530500-5d7e-11eb-88f6-ac3942e6513b.png) <br>
 
 ### Upload the code
-Keep the USB connected to NodeMCU
-Type `http://mcu-node.local` on your browsr, if you did everything properly, you will see something like this:
+Keep the USB connected to NodeMCU to access the serial monitor in case you want to debug!
+Type `http://mcu-node.local` on your browser, if you did everything properly, you will see something like this:
 ![image](https://user-images.githubusercontent.com/55695557/105572755-26e98500-5d7f-11eb-9d91-263d1d95b59d.png) <br>
